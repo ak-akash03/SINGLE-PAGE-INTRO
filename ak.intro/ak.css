@@ -6,8 +6,6 @@
     padding-right: 15px;
     border-radius: 15px;
     margin-top: 15%;
-
-
     font-family: Comic Sans MS;
 }
 .header1{
@@ -68,8 +66,7 @@
     border-radius: 5px
 }
 .px{
-    color:rgb(28, 26, 158);
-    
+    color:rgb(28, 26, 158);   
 }
 .py{
     /* background-color: red; */
